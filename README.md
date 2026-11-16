@@ -1,8 +1,8 @@
-# Electrum-BLK - Lightweight Blackcoin client
+# Electrum-BLK - Lightweight Madencoin client
 
 ```
 Licence: MIT Licence
-Author: Thomas Voegtlin
+Author: mat
 BLK Port Maintainers: lateminer & BlackcoinDev
 Language: Python (>= 3.11.2)
 Homepage: https://blackcoin.org/
